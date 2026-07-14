@@ -3,4 +3,4 @@ pandas
 matplot
 seaborn
 plotly
-option_menu
+option menu
